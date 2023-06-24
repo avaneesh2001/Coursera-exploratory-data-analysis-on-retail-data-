@@ -31,8 +31,8 @@ The primary goals of this EDA project are as follows:
 
 This repository contains the following files:
 
-- `data.csv`: The retail dataset used for the analysis.
-- `analysis.ipynb`: Jupyter Notebook containing the EDA code.
+- `Online Retail.xlxs`: The retail dataset used for the analysis.
+- `Coursera exploratory data analysis on retail data.ipynb`: Jupyter Notebook containing the EDA code.
 - `README.md`: This README file providing an overview of the project.
 
 ## Getting Started
